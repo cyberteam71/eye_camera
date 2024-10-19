@@ -1,11 +1,11 @@
 # Installation 
-.apt uodate
-.apt upgrade
-.pkg install git
-.pkg install python
-.pkg install python2
-.pkg install python3
+.apt uodate<br>
+.apt upgrade<br>
+.pkg install git<br>
+.pkg install python<br>
+.pkg install python2<br>
+.pkg install python3<br>
 .git clone https://github.com/cyberteam71/eye_camera/tree/main
-ls
-cd eye_camera
-python eye_camera.py
+ls<br>
+cd eye_camera<br>
+python eye_camera.py<br>
